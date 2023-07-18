@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe.config
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\bin\Debug\Hola mundo.xml
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola mundo.vbproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola_mundo.Form1.resources
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola_mundo.Resources.resources
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola mundo.vbproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola mundo.vbproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola mundo.exe
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola mundo.xml
+C:\Users\MINEDUCYT\source\repos\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb
